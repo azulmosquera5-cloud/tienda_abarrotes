@@ -1,0 +1,67 @@
+[
+  
+  {
+    "id": "product-2",
+    "nombre": "leche",
+    "precio": 11,
+    "bodega1": 0,
+    "bodega2": 0,
+    "exhibicion": 14
+  },
+  {
+    "id": "product-3",
+    "nombre": "sal",
+    "precio": 1000,
+    "bodega1": 0,
+    "bodega2": 10,
+    "exhibicion": 60
+  },
+  {
+    "id": "product-4",
+    "nombre": "yuca",
+    "precio": 2000,
+    "bodega1": 80,
+    "bodega2": 0,
+    "exhibicion": 13
+  },
+  {
+    "id": "product-5",
+    "nombre": "platano",
+    "precio": 2200,
+    "bodega1": 0,
+    "bodega2": 100,
+    "exhibicion": 0
+  },
+  {
+    "id": "product-1754691394525",
+    "nombre": "chitos",
+    "precio": 2500,
+    "bodega1": 0,
+    "bodega2": 0,
+    "exhibicion": 4900
+  },
+  {
+    "id": "product-1754691419824",
+    "nombre": "aguacate",
+    "precio": 2000,
+    "bodega1": 0,
+    "bodega2": 300,
+    "exhibicion": 0
+  },
+  {
+    "id": "product-1754691453279",
+    "nombre": "chocolate luker",
+    "precio": 18500,
+    "bodega1": 0,
+    "bodega2": 0,
+    "exhibicion": 175
+  },
+  {
+    "id": "product-1754701832254",
+    "nombre": "papa capira",
+    "precio": 1500,
+    "bodega1": 3,
+    "bodega2": 0,
+    "exhibicion": 0
+  }
+]

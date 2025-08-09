@@ -1,0 +1,345 @@
+{
+  "node": {
+    "0018f2c53a83f952f74f1c9b740f41fdda31e70c8d": {
+      "workers": {
+        "app/login/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fauth.ts%22%2C%5B%7B%22id%22%3A%220018f2c53a83f952f74f1c9b740f41fdda31e70c8d%22%2C%22exportedName%22%3A%22getUser%22%7D%2C%7B%22id%22%3A%22005fcd438d62046b87b3d52b367e8658009f263eb8%22%2C%22exportedName%22%3A%22logout%22%7D%2C%7B%22id%22%3A%2240e5bafe7bc1553445ef2a964745104ea2964544b7%22%2C%22exportedName%22%3A%22login%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/dashboard/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fauth.ts%22%2C%5B%7B%22id%22%3A%220018f2c53a83f952f74f1c9b740f41fdda31e70c8d%22%2C%22exportedName%22%3A%22getUser%22%7D%2C%7B%22id%22%3A%22005fcd438d62046b87b3d52b367e8658009f263eb8%22%2C%22exportedName%22%3A%22logout%22%7D%2C%7B%22id%22%3A%2240e5bafe7bc1553445ef2a964745104ea2964544b7%22%2C%22exportedName%22%3A%22login%22%7D%5D%5D%2C%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/dashboard/productos/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fauth.ts%22%2C%5B%7B%22id%22%3A%220018f2c53a83f952f74f1c9b740f41fdda31e70c8d%22%2C%22exportedName%22%3A%22getUser%22%7D%2C%7B%22id%22%3A%22005fcd438d62046b87b3d52b367e8658009f263eb8%22%2C%22exportedName%22%3A%22logout%22%7D%2C%7B%22id%22%3A%2240e5bafe7bc1553445ef2a964745104ea2964544b7%22%2C%22exportedName%22%3A%22login%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/dashboard/inventario/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fauth.ts%22%2C%5B%7B%22id%22%3A%220018f2c53a83f952f74f1c9b740f41fdda31e70c8d%22%2C%22exportedName%22%3A%22getUser%22%7D%2C%7B%22id%22%3A%22005fcd438d62046b87b3d52b367e8658009f263eb8%22%2C%22exportedName%22%3A%22logout%22%7D%2C%7B%22id%22%3A%2240e5bafe7bc1553445ef2a964745104ea2964544b7%22%2C%22exportedName%22%3A%22login%22%7D%5D%5D%2C%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/dashboard/ventas/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fauth.ts%22%2C%5B%7B%22id%22%3A%220018f2c53a83f952f74f1c9b740f41fdda31e70c8d%22%2C%22exportedName%22%3A%22getUser%22%7D%2C%7B%22id%22%3A%22005fcd438d62046b87b3d52b367e8658009f263eb8%22%2C%22exportedName%22%3A%22logout%22%7D%2C%7B%22id%22%3A%2240e5bafe7bc1553445ef2a964745104ea2964544b7%22%2C%22exportedName%22%3A%22login%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/dashboard/mover/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fauth.ts%22%2C%5B%7B%22id%22%3A%220018f2c53a83f952f74f1c9b740f41fdda31e70c8d%22%2C%22exportedName%22%3A%22getUser%22%7D%2C%7B%22id%22%3A%22005fcd438d62046b87b3d52b367e8658009f263eb8%22%2C%22exportedName%22%3A%22logout%22%7D%2C%7B%22id%22%3A%2240e5bafe7bc1553445ef2a964745104ea2964544b7%22%2C%22exportedName%22%3A%22login%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/dashboard/reportes/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fauth.ts%22%2C%5B%7B%22id%22%3A%220018f2c53a83f952f74f1c9b740f41fdda31e70c8d%22%2C%22exportedName%22%3A%22getUser%22%7D%2C%7B%22id%22%3A%22005fcd438d62046b87b3d52b367e8658009f263eb8%22%2C%22exportedName%22%3A%22logout%22%7D%2C%7B%22id%22%3A%2240e5bafe7bc1553445ef2a964745104ea2964544b7%22%2C%22exportedName%22%3A%22login%22%7D%5D%5D%2C%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/login/page": "action-browser",
+        "app/dashboard/page": "rsc",
+        "app/dashboard/productos/page": "rsc",
+        "app/dashboard/inventario/page": "rsc",
+        "app/dashboard/ventas/page": "rsc",
+        "app/dashboard/mover/page": "rsc",
+        "app/dashboard/reportes/page": "rsc"
+      }
+    },
+    "005fcd438d62046b87b3d52b367e8658009f263eb8": {
+      "workers": {
+        "app/login/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fauth.ts%22%2C%5B%7B%22id%22%3A%220018f2c53a83f952f74f1c9b740f41fdda31e70c8d%22%2C%22exportedName%22%3A%22getUser%22%7D%2C%7B%22id%22%3A%22005fcd438d62046b87b3d52b367e8658009f263eb8%22%2C%22exportedName%22%3A%22logout%22%7D%2C%7B%22id%22%3A%2240e5bafe7bc1553445ef2a964745104ea2964544b7%22%2C%22exportedName%22%3A%22login%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/dashboard/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fauth.ts%22%2C%5B%7B%22id%22%3A%220018f2c53a83f952f74f1c9b740f41fdda31e70c8d%22%2C%22exportedName%22%3A%22getUser%22%7D%2C%7B%22id%22%3A%22005fcd438d62046b87b3d52b367e8658009f263eb8%22%2C%22exportedName%22%3A%22logout%22%7D%2C%7B%22id%22%3A%2240e5bafe7bc1553445ef2a964745104ea2964544b7%22%2C%22exportedName%22%3A%22login%22%7D%5D%5D%2C%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/dashboard/productos/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fauth.ts%22%2C%5B%7B%22id%22%3A%220018f2c53a83f952f74f1c9b740f41fdda31e70c8d%22%2C%22exportedName%22%3A%22getUser%22%7D%2C%7B%22id%22%3A%22005fcd438d62046b87b3d52b367e8658009f263eb8%22%2C%22exportedName%22%3A%22logout%22%7D%2C%7B%22id%22%3A%2240e5bafe7bc1553445ef2a964745104ea2964544b7%22%2C%22exportedName%22%3A%22login%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/dashboard/inventario/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fauth.ts%22%2C%5B%7B%22id%22%3A%220018f2c53a83f952f74f1c9b740f41fdda31e70c8d%22%2C%22exportedName%22%3A%22getUser%22%7D%2C%7B%22id%22%3A%22005fcd438d62046b87b3d52b367e8658009f263eb8%22%2C%22exportedName%22%3A%22logout%22%7D%2C%7B%22id%22%3A%2240e5bafe7bc1553445ef2a964745104ea2964544b7%22%2C%22exportedName%22%3A%22login%22%7D%5D%5D%2C%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/dashboard/ventas/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fauth.ts%22%2C%5B%7B%22id%22%3A%220018f2c53a83f952f74f1c9b740f41fdda31e70c8d%22%2C%22exportedName%22%3A%22getUser%22%7D%2C%7B%22id%22%3A%22005fcd438d62046b87b3d52b367e8658009f263eb8%22%2C%22exportedName%22%3A%22logout%22%7D%2C%7B%22id%22%3A%2240e5bafe7bc1553445ef2a964745104ea2964544b7%22%2C%22exportedName%22%3A%22login%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/dashboard/mover/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fauth.ts%22%2C%5B%7B%22id%22%3A%220018f2c53a83f952f74f1c9b740f41fdda31e70c8d%22%2C%22exportedName%22%3A%22getUser%22%7D%2C%7B%22id%22%3A%22005fcd438d62046b87b3d52b367e8658009f263eb8%22%2C%22exportedName%22%3A%22logout%22%7D%2C%7B%22id%22%3A%2240e5bafe7bc1553445ef2a964745104ea2964544b7%22%2C%22exportedName%22%3A%22login%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/dashboard/reportes/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fauth.ts%22%2C%5B%7B%22id%22%3A%220018f2c53a83f952f74f1c9b740f41fdda31e70c8d%22%2C%22exportedName%22%3A%22getUser%22%7D%2C%7B%22id%22%3A%22005fcd438d62046b87b3d52b367e8658009f263eb8%22%2C%22exportedName%22%3A%22logout%22%7D%2C%7B%22id%22%3A%2240e5bafe7bc1553445ef2a964745104ea2964544b7%22%2C%22exportedName%22%3A%22login%22%7D%5D%5D%2C%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/login/page": "action-browser",
+        "app/dashboard/page": "rsc",
+        "app/dashboard/productos/page": "rsc",
+        "app/dashboard/inventario/page": "rsc",
+        "app/dashboard/ventas/page": "rsc",
+        "app/dashboard/mover/page": "rsc",
+        "app/dashboard/reportes/page": "rsc"
+      }
+    },
+    "40e5bafe7bc1553445ef2a964745104ea2964544b7": {
+      "workers": {
+        "app/login/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fauth.ts%22%2C%5B%7B%22id%22%3A%220018f2c53a83f952f74f1c9b740f41fdda31e70c8d%22%2C%22exportedName%22%3A%22getUser%22%7D%2C%7B%22id%22%3A%22005fcd438d62046b87b3d52b367e8658009f263eb8%22%2C%22exportedName%22%3A%22logout%22%7D%2C%7B%22id%22%3A%2240e5bafe7bc1553445ef2a964745104ea2964544b7%22%2C%22exportedName%22%3A%22login%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/dashboard/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fauth.ts%22%2C%5B%7B%22id%22%3A%220018f2c53a83f952f74f1c9b740f41fdda31e70c8d%22%2C%22exportedName%22%3A%22getUser%22%7D%2C%7B%22id%22%3A%22005fcd438d62046b87b3d52b367e8658009f263eb8%22%2C%22exportedName%22%3A%22logout%22%7D%2C%7B%22id%22%3A%2240e5bafe7bc1553445ef2a964745104ea2964544b7%22%2C%22exportedName%22%3A%22login%22%7D%5D%5D%2C%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/dashboard/productos/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fauth.ts%22%2C%5B%7B%22id%22%3A%220018f2c53a83f952f74f1c9b740f41fdda31e70c8d%22%2C%22exportedName%22%3A%22getUser%22%7D%2C%7B%22id%22%3A%22005fcd438d62046b87b3d52b367e8658009f263eb8%22%2C%22exportedName%22%3A%22logout%22%7D%2C%7B%22id%22%3A%2240e5bafe7bc1553445ef2a964745104ea2964544b7%22%2C%22exportedName%22%3A%22login%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/dashboard/inventario/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fauth.ts%22%2C%5B%7B%22id%22%3A%220018f2c53a83f952f74f1c9b740f41fdda31e70c8d%22%2C%22exportedName%22%3A%22getUser%22%7D%2C%7B%22id%22%3A%22005fcd438d62046b87b3d52b367e8658009f263eb8%22%2C%22exportedName%22%3A%22logout%22%7D%2C%7B%22id%22%3A%2240e5bafe7bc1553445ef2a964745104ea2964544b7%22%2C%22exportedName%22%3A%22login%22%7D%5D%5D%2C%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/dashboard/ventas/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fauth.ts%22%2C%5B%7B%22id%22%3A%220018f2c53a83f952f74f1c9b740f41fdda31e70c8d%22%2C%22exportedName%22%3A%22getUser%22%7D%2C%7B%22id%22%3A%22005fcd438d62046b87b3d52b367e8658009f263eb8%22%2C%22exportedName%22%3A%22logout%22%7D%2C%7B%22id%22%3A%2240e5bafe7bc1553445ef2a964745104ea2964544b7%22%2C%22exportedName%22%3A%22login%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/dashboard/mover/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fauth.ts%22%2C%5B%7B%22id%22%3A%220018f2c53a83f952f74f1c9b740f41fdda31e70c8d%22%2C%22exportedName%22%3A%22getUser%22%7D%2C%7B%22id%22%3A%22005fcd438d62046b87b3d52b367e8658009f263eb8%22%2C%22exportedName%22%3A%22logout%22%7D%2C%7B%22id%22%3A%2240e5bafe7bc1553445ef2a964745104ea2964544b7%22%2C%22exportedName%22%3A%22login%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/dashboard/reportes/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fauth.ts%22%2C%5B%7B%22id%22%3A%220018f2c53a83f952f74f1c9b740f41fdda31e70c8d%22%2C%22exportedName%22%3A%22getUser%22%7D%2C%7B%22id%22%3A%22005fcd438d62046b87b3d52b367e8658009f263eb8%22%2C%22exportedName%22%3A%22logout%22%7D%2C%7B%22id%22%3A%2240e5bafe7bc1553445ef2a964745104ea2964544b7%22%2C%22exportedName%22%3A%22login%22%7D%5D%5D%2C%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/login/page": "action-browser",
+        "app/dashboard/page": "rsc",
+        "app/dashboard/productos/page": "rsc",
+        "app/dashboard/inventario/page": "rsc",
+        "app/dashboard/ventas/page": "rsc",
+        "app/dashboard/mover/page": "rsc",
+        "app/dashboard/reportes/page": "rsc"
+      }
+    },
+    "00653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f": {
+      "workers": {
+        "app/dashboard/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fauth.ts%22%2C%5B%7B%22id%22%3A%220018f2c53a83f952f74f1c9b740f41fdda31e70c8d%22%2C%22exportedName%22%3A%22getUser%22%7D%2C%7B%22id%22%3A%22005fcd438d62046b87b3d52b367e8658009f263eb8%22%2C%22exportedName%22%3A%22logout%22%7D%2C%7B%22id%22%3A%2240e5bafe7bc1553445ef2a964745104ea2964544b7%22%2C%22exportedName%22%3A%22login%22%7D%5D%5D%2C%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/dashboard/productos/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/dashboard/inventario/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fauth.ts%22%2C%5B%7B%22id%22%3A%220018f2c53a83f952f74f1c9b740f41fdda31e70c8d%22%2C%22exportedName%22%3A%22getUser%22%7D%2C%7B%22id%22%3A%22005fcd438d62046b87b3d52b367e8658009f263eb8%22%2C%22exportedName%22%3A%22logout%22%7D%2C%7B%22id%22%3A%2240e5bafe7bc1553445ef2a964745104ea2964544b7%22%2C%22exportedName%22%3A%22login%22%7D%5D%5D%2C%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/dashboard/ventas/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/dashboard/mover/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/dashboard/reportes/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fauth.ts%22%2C%5B%7B%22id%22%3A%220018f2c53a83f952f74f1c9b740f41fdda31e70c8d%22%2C%22exportedName%22%3A%22getUser%22%7D%2C%7B%22id%22%3A%22005fcd438d62046b87b3d52b367e8658009f263eb8%22%2C%22exportedName%22%3A%22logout%22%7D%2C%7B%22id%22%3A%2240e5bafe7bc1553445ef2a964745104ea2964544b7%22%2C%22exportedName%22%3A%22login%22%7D%5D%5D%2C%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/page": "rsc",
+        "app/dashboard/productos/page": "action-browser",
+        "app/dashboard/inventario/page": "rsc",
+        "app/dashboard/ventas/page": "action-browser",
+        "app/dashboard/mover/page": "action-browser",
+        "app/dashboard/reportes/page": "rsc"
+      }
+    },
+    "00c45aada04dda49b862678b2cd918760805473db1": {
+      "workers": {
+        "app/dashboard/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fauth.ts%22%2C%5B%7B%22id%22%3A%220018f2c53a83f952f74f1c9b740f41fdda31e70c8d%22%2C%22exportedName%22%3A%22getUser%22%7D%2C%7B%22id%22%3A%22005fcd438d62046b87b3d52b367e8658009f263eb8%22%2C%22exportedName%22%3A%22logout%22%7D%2C%7B%22id%22%3A%2240e5bafe7bc1553445ef2a964745104ea2964544b7%22%2C%22exportedName%22%3A%22login%22%7D%5D%5D%2C%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/dashboard/productos/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/dashboard/inventario/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fauth.ts%22%2C%5B%7B%22id%22%3A%220018f2c53a83f952f74f1c9b740f41fdda31e70c8d%22%2C%22exportedName%22%3A%22getUser%22%7D%2C%7B%22id%22%3A%22005fcd438d62046b87b3d52b367e8658009f263eb8%22%2C%22exportedName%22%3A%22logout%22%7D%2C%7B%22id%22%3A%2240e5bafe7bc1553445ef2a964745104ea2964544b7%22%2C%22exportedName%22%3A%22login%22%7D%5D%5D%2C%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/dashboard/ventas/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/dashboard/mover/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/dashboard/reportes/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fauth.ts%22%2C%5B%7B%22id%22%3A%220018f2c53a83f952f74f1c9b740f41fdda31e70c8d%22%2C%22exportedName%22%3A%22getUser%22%7D%2C%7B%22id%22%3A%22005fcd438d62046b87b3d52b367e8658009f263eb8%22%2C%22exportedName%22%3A%22logout%22%7D%2C%7B%22id%22%3A%2240e5bafe7bc1553445ef2a964745104ea2964544b7%22%2C%22exportedName%22%3A%22login%22%7D%5D%5D%2C%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/page": "rsc",
+        "app/dashboard/productos/page": "action-browser",
+        "app/dashboard/inventario/page": "rsc",
+        "app/dashboard/ventas/page": "action-browser",
+        "app/dashboard/mover/page": "action-browser",
+        "app/dashboard/reportes/page": "rsc"
+      }
+    },
+    "4048fd2ace7f276522bfe983c163547f74739a7eb2": {
+      "workers": {
+        "app/dashboard/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fauth.ts%22%2C%5B%7B%22id%22%3A%220018f2c53a83f952f74f1c9b740f41fdda31e70c8d%22%2C%22exportedName%22%3A%22getUser%22%7D%2C%7B%22id%22%3A%22005fcd438d62046b87b3d52b367e8658009f263eb8%22%2C%22exportedName%22%3A%22logout%22%7D%2C%7B%22id%22%3A%2240e5bafe7bc1553445ef2a964745104ea2964544b7%22%2C%22exportedName%22%3A%22login%22%7D%5D%5D%2C%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/dashboard/productos/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/dashboard/inventario/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fauth.ts%22%2C%5B%7B%22id%22%3A%220018f2c53a83f952f74f1c9b740f41fdda31e70c8d%22%2C%22exportedName%22%3A%22getUser%22%7D%2C%7B%22id%22%3A%22005fcd438d62046b87b3d52b367e8658009f263eb8%22%2C%22exportedName%22%3A%22logout%22%7D%2C%7B%22id%22%3A%2240e5bafe7bc1553445ef2a964745104ea2964544b7%22%2C%22exportedName%22%3A%22login%22%7D%5D%5D%2C%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/dashboard/ventas/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/dashboard/mover/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/dashboard/reportes/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fauth.ts%22%2C%5B%7B%22id%22%3A%220018f2c53a83f952f74f1c9b740f41fdda31e70c8d%22%2C%22exportedName%22%3A%22getUser%22%7D%2C%7B%22id%22%3A%22005fcd438d62046b87b3d52b367e8658009f263eb8%22%2C%22exportedName%22%3A%22logout%22%7D%2C%7B%22id%22%3A%2240e5bafe7bc1553445ef2a964745104ea2964544b7%22%2C%22exportedName%22%3A%22login%22%7D%5D%5D%2C%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/page": "rsc",
+        "app/dashboard/productos/page": "action-browser",
+        "app/dashboard/inventario/page": "rsc",
+        "app/dashboard/ventas/page": "action-browser",
+        "app/dashboard/mover/page": "action-browser",
+        "app/dashboard/reportes/page": "rsc"
+      }
+    },
+    "4090fe6639ab9b3c9280c3aa1837e5260d06da3efd": {
+      "workers": {
+        "app/dashboard/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fauth.ts%22%2C%5B%7B%22id%22%3A%220018f2c53a83f952f74f1c9b740f41fdda31e70c8d%22%2C%22exportedName%22%3A%22getUser%22%7D%2C%7B%22id%22%3A%22005fcd438d62046b87b3d52b367e8658009f263eb8%22%2C%22exportedName%22%3A%22logout%22%7D%2C%7B%22id%22%3A%2240e5bafe7bc1553445ef2a964745104ea2964544b7%22%2C%22exportedName%22%3A%22login%22%7D%5D%5D%2C%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/dashboard/productos/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/dashboard/inventario/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fauth.ts%22%2C%5B%7B%22id%22%3A%220018f2c53a83f952f74f1c9b740f41fdda31e70c8d%22%2C%22exportedName%22%3A%22getUser%22%7D%2C%7B%22id%22%3A%22005fcd438d62046b87b3d52b367e8658009f263eb8%22%2C%22exportedName%22%3A%22logout%22%7D%2C%7B%22id%22%3A%2240e5bafe7bc1553445ef2a964745104ea2964544b7%22%2C%22exportedName%22%3A%22login%22%7D%5D%5D%2C%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/dashboard/ventas/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/dashboard/mover/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/dashboard/reportes/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fauth.ts%22%2C%5B%7B%22id%22%3A%220018f2c53a83f952f74f1c9b740f41fdda31e70c8d%22%2C%22exportedName%22%3A%22getUser%22%7D%2C%7B%22id%22%3A%22005fcd438d62046b87b3d52b367e8658009f263eb8%22%2C%22exportedName%22%3A%22logout%22%7D%2C%7B%22id%22%3A%2240e5bafe7bc1553445ef2a964745104ea2964544b7%22%2C%22exportedName%22%3A%22login%22%7D%5D%5D%2C%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/page": "rsc",
+        "app/dashboard/productos/page": "action-browser",
+        "app/dashboard/inventario/page": "rsc",
+        "app/dashboard/ventas/page": "action-browser",
+        "app/dashboard/mover/page": "action-browser",
+        "app/dashboard/reportes/page": "rsc"
+      }
+    },
+    "40ffabcc7e2c441720b46504a0ccd22d9f39b64f43": {
+      "workers": {
+        "app/dashboard/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fauth.ts%22%2C%5B%7B%22id%22%3A%220018f2c53a83f952f74f1c9b740f41fdda31e70c8d%22%2C%22exportedName%22%3A%22getUser%22%7D%2C%7B%22id%22%3A%22005fcd438d62046b87b3d52b367e8658009f263eb8%22%2C%22exportedName%22%3A%22logout%22%7D%2C%7B%22id%22%3A%2240e5bafe7bc1553445ef2a964745104ea2964544b7%22%2C%22exportedName%22%3A%22login%22%7D%5D%5D%2C%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/dashboard/productos/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/dashboard/inventario/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fauth.ts%22%2C%5B%7B%22id%22%3A%220018f2c53a83f952f74f1c9b740f41fdda31e70c8d%22%2C%22exportedName%22%3A%22getUser%22%7D%2C%7B%22id%22%3A%22005fcd438d62046b87b3d52b367e8658009f263eb8%22%2C%22exportedName%22%3A%22logout%22%7D%2C%7B%22id%22%3A%2240e5bafe7bc1553445ef2a964745104ea2964544b7%22%2C%22exportedName%22%3A%22login%22%7D%5D%5D%2C%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/dashboard/ventas/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/dashboard/mover/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/dashboard/reportes/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fauth.ts%22%2C%5B%7B%22id%22%3A%220018f2c53a83f952f74f1c9b740f41fdda31e70c8d%22%2C%22exportedName%22%3A%22getUser%22%7D%2C%7B%22id%22%3A%22005fcd438d62046b87b3d52b367e8658009f263eb8%22%2C%22exportedName%22%3A%22logout%22%7D%2C%7B%22id%22%3A%2240e5bafe7bc1553445ef2a964745104ea2964544b7%22%2C%22exportedName%22%3A%22login%22%7D%5D%5D%2C%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/page": "rsc",
+        "app/dashboard/productos/page": "action-browser",
+        "app/dashboard/inventario/page": "rsc",
+        "app/dashboard/ventas/page": "action-browser",
+        "app/dashboard/mover/page": "action-browser",
+        "app/dashboard/reportes/page": "rsc"
+      }
+    },
+    "60f4265a573e97548067ed43be358e5376e795dd51": {
+      "workers": {
+        "app/dashboard/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fauth.ts%22%2C%5B%7B%22id%22%3A%220018f2c53a83f952f74f1c9b740f41fdda31e70c8d%22%2C%22exportedName%22%3A%22getUser%22%7D%2C%7B%22id%22%3A%22005fcd438d62046b87b3d52b367e8658009f263eb8%22%2C%22exportedName%22%3A%22logout%22%7D%2C%7B%22id%22%3A%2240e5bafe7bc1553445ef2a964745104ea2964544b7%22%2C%22exportedName%22%3A%22login%22%7D%5D%5D%2C%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/dashboard/productos/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/dashboard/inventario/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fauth.ts%22%2C%5B%7B%22id%22%3A%220018f2c53a83f952f74f1c9b740f41fdda31e70c8d%22%2C%22exportedName%22%3A%22getUser%22%7D%2C%7B%22id%22%3A%22005fcd438d62046b87b3d52b367e8658009f263eb8%22%2C%22exportedName%22%3A%22logout%22%7D%2C%7B%22id%22%3A%2240e5bafe7bc1553445ef2a964745104ea2964544b7%22%2C%22exportedName%22%3A%22login%22%7D%5D%5D%2C%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        },
+        "app/dashboard/ventas/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/dashboard/mover/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        },
+        "app/dashboard/reportes/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fauth.ts%22%2C%5B%7B%22id%22%3A%220018f2c53a83f952f74f1c9b740f41fdda31e70c8d%22%2C%22exportedName%22%3A%22getUser%22%7D%2C%7B%22id%22%3A%22005fcd438d62046b87b3d52b367e8658009f263eb8%22%2C%22exportedName%22%3A%22logout%22%7D%2C%7B%22id%22%3A%2240e5bafe7bc1553445ef2a964745104ea2964544b7%22%2C%22exportedName%22%3A%22login%22%7D%5D%5D%2C%5B%22%2Fhome%2Fjonathan%2FIm%C3%A1genes%2Fsistema-abarrotes-moderno%2Flib%2Fproducts.ts%22%2C%5B%7B%22id%22%3A%2200653a412ef1dc8f5a9ffe87428c7d27dbb9d2464f%22%2C%22exportedName%22%3A%22getProducts%22%7D%2C%7B%22id%22%3A%2200c45aada04dda49b862678b2cd918760805473db1%22%2C%22exportedName%22%3A%22getSales%22%7D%2C%7B%22id%22%3A%224048fd2ace7f276522bfe983c163547f74739a7eb2%22%2C%22exportedName%22%3A%22moveProduct%22%7D%2C%7B%22id%22%3A%224090fe6639ab9b3c9280c3aa1837e5260d06da3efd%22%2C%22exportedName%22%3A%22addProduct%22%7D%2C%7B%22id%22%3A%2240ffabcc7e2c441720b46504a0ccd22d9f39b64f43%22%2C%22exportedName%22%3A%22saveProducts%22%7D%2C%7B%22id%22%3A%2260f4265a573e97548067ed43be358e5376e795dd51%22%2C%22exportedName%22%3A%22sellProduct%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/page": "rsc",
+        "app/dashboard/productos/page": "action-browser",
+        "app/dashboard/inventario/page": "rsc",
+        "app/dashboard/ventas/page": "action-browser",
+        "app/dashboard/mover/page": "action-browser",
+        "app/dashboard/reportes/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "Xh4n2BXqKi5kdIlvExoc49dAMSOz53h/iLGf0yi0J60="
+}

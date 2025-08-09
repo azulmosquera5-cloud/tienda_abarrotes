@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sale-1754691566706",
+    "productName": "leche",
+    "quantity": 5,
+    "price": 11,
+    "total": 55,
+    "date": "2025-08-08T22:19:26.707Z"
+  },
+  {
+    "id": "sale-1754691575781",
+    "productName": "sal",
+    "quantity": 30,
+    "price": 1000,
+    "total": 30000,
+    "date": "2025-08-08T22:19:35.781Z"
+  },
+  {
+    "id": "sale-1754691585573",
+    "productName": "chitos",
+    "quantity": 100,
+    "price": 2500,
+    "total": 250000,
+    "date": "2025-08-08T22:19:45.573Z"
+  },
+  {
+    "id": "sale-1754691591699",
+    "productName": "chocolate luker",
+    "quantity": 50,
+    "price": 18500,
+    "total": 925000,
+    "date": "2025-08-08T22:19:51.699Z"
+  },
+  {
+    "id": "sale-1754701802244",
+    "productName": "papa capitra",
+    "quantity": 1,
+    "price": 1,
+    "total": 1,
+    "date": "2025-08-09T01:10:02.244Z"
+  }
+]
